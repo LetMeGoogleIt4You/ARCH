@@ -1,7 +1,7 @@
 # ARCH
-ARCH is a tool for documentation Cisco devices(mainly IOS-XE routers).   
+ARCH is a tool for documentation of Cisco devices(mainly IOS-XE routers).   
 
-ARCH was a tool written for SecureCRT because that was the only way to use python and network automation.    
+ARCH was a tool written for SecureCRT because that was the only way to use python for network automation.    
  
 
 The tool has three standalone parts.  
