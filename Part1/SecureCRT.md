@@ -6,10 +6,10 @@
 
 ![AnyConnect](/files/GatherInfo1.png "GatherInfo1")
 
-![AnyConnect](/files/GatherInfo2.png "GatherInfo1")
+![AnyConnect](/files/GatherInfo2.png "GatherInfo2")
 
 ### Step 3: Enhter the folder location for the output
 
-![AnyConnect](/files/GatherInfo3.png "GatherInfo1")
+![AnyConnect](/files/GatherInfo3.png "GatherInfo3")
 
-![AnyConnect](/files/GatherInfo3.png "GatherInfo1")
+![AnyConnect](/files/GatherInfo4.png "GatherInfo4")
