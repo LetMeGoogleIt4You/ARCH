@@ -6,14 +6,14 @@ ARCH was a tool written for SecureCRT because that was the only way to use pytho
 
 The tool has three standalone parts.  
 
-Part 1: Geahter informatsion  
+## Part 1: Geahter informatsion  
 Using SecureCRT:  
 Using Netmiko(Alternativ):    
 
-Part 2: Pharse informasion and create a csv file  
+## Part 2: Pharse informasion and create a csv file  
 Using: SecureCRT or Python  
 
-Part 3: Create an excel file of each CSV file   
+## Part 3: Create an excel file from each CSV file   
 Using:  Python (Not SecureCRT combability jet)  
 
 
