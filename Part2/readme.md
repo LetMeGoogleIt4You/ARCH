@@ -1,5 +1,7 @@
 # Part 2: Pharse informatsion 
+This script can be used with both SecureCRT or Python.
 
+If you are going to use python change folder variabel to use input insted of crt.Dialog.Prompt.
 
 ### Step 1: Open the Arch.py and change location of the scripts (pathToSubScript)
 
