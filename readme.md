@@ -1,13 +1,16 @@
 # ARCH
 ARCH is a tool for documentation of Cisco devices(mainly IOS-XE routers).   
 
-ARCH was a tool written for SecureCRT because that was the only way to use python for network automation.    
+ARCH is a tool written for SecureCRT because it was the only way to use python for network automation at this point.  
+Usually, you would use Ansible with TextFSM, Nornir, or Genie.   
+  
  
 
 The tool has three standalone parts.  
 
 ## Part 1: Geahter informatsion  
 [Using SecureCRT:](https://github.com/LetMeGoogleIt4You/ARCH/blob/master/Part1/SecureCRT.md)  
+
 [Using Netmiko(Alternativ):](https://github.com/LetMeGoogleIt4You/ARCH/blob/master/Part1/Netmiko.md)    
 
 ## Part 2: Pharse informasion and create a csv file  
@@ -19,7 +22,7 @@ The tool has three standalone parts.
 
 ## Nots
 
-ARCH  is still under development, so bugs and changes can occur   
-
+ARCH is still under development, so bugs and changes can occur.     
+ARCH is mainly focues on ISR and ASR routers shoude work on most IOS-XE devices.    
 
 
