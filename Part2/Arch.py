@@ -18,9 +18,9 @@ import snmpToCSV
 import InventoryToCSV
 import platformToCSV
 
-#Get user input for the show txt files
+#set folder location with SecureCRT or Python
 folder = crt.Dialog.Prompt ("Enter the folder location of the txt files")
-#folder = input("Enter the folder location of the txt file")
+#folder = input("Enter the folder location of the txt files")
 
 #Format location
 location = folder.replace('"\"' , '"\\"')

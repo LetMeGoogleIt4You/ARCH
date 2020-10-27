@@ -3,6 +3,9 @@ This script can be used with both SecureCRT or Python.
 
 If you are going to use python change folder variabel to use input insted of crt.Dialog.Prompt.
 
+![ParseInfo](/files/ParseInfo1.png "ParseInfo6")
+
+
 ### Step 1: Open the Arch.py and change location of the scripts (pathToSubScript)
 
 ![ParseInfo](/files/ParseInfo1.png "ParseInfo1")
@@ -18,4 +21,11 @@ If you are going to use python change folder variabel to use input insted of crt
 
 ![ParseInfo](/files/ParseInfo4.png "ParseInfo4")
 
+Now the folder shoud be populated with CSV fils.  
+ 
+If you are missing some csv fils the reason can be something woring with the txt file or bug in the parser  
+
 ![ParseInfo](/files/ParseInfo5.png "ParseInfo5")
+
+
+[Link to Part 3:](https://github.com/LetMeGoogleIt4You/ARCH/blob/master/Part3/readme.md)
