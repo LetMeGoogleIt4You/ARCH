@@ -20,4 +20,8 @@ This script shuod be supportet in the next version of SecureCRT then moving to P
 
 
 
+
+
+[Link to Part 2:](https://github.com/LetMeGoogleIt4You/ARCH/blob/master/Part2/readme.md)
+
 [Link to main page](https://github.com/LetMeGoogleIt4You/ARCH#arch)

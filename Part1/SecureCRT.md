@@ -13,3 +13,8 @@
 ![AnyConnect](/files/GatherInfo3.png "GatherInfo3")
 
 ![AnyConnect](/files/GatherInfo4.png "GatherInfo4")
+
+
+[Link to Part 2:](https://github.com/LetMeGoogleIt4You/ARCH/blob/master/Part2/readme.md)
+
+[Link to main page](https://github.com/LetMeGoogleIt4You/ARCH#arch)

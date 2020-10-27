@@ -27,5 +27,8 @@ If you are missing some csv fils the reason can be something woring with the txt
 
 ![ParseInfo](/files/ParseInfo5.png "ParseInfo5")
 
+[Link to Part 1:](https://github.com/LetMeGoogleIt4You/ARCH/blob/master/Part1/readme.md)
 
 [Link to Part 3:](https://github.com/LetMeGoogleIt4You/ARCH/blob/master/Part3/readme.md)
+
+[Link to main page](https://github.com/LetMeGoogleIt4You/ARCH#arch)
