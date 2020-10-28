@@ -14,12 +14,13 @@ This script shuod be supportet in the next version of SecureCRT then moving to P
 
 ![MakeExcelFile](/files/MakeExcelFile2.png "MakeExcelFile2")
 
-### Step 3: verify the excel file 
+### Step 3: Verify the excel file 
 
 ![MakeExcelFile](/files/MakeExcelFile3.png "MakeExcelFile3")
 
+### Step 4: Modify columns and make the headers more readable 
 
-
+![MakeExcelFile](/files/MakeExcelFile4.png "MakeExcelFile4")
 
 
 [Link to Part 2:](https://github.com/LetMeGoogleIt4You/ARCH/blob/master/Part2/readme.md)

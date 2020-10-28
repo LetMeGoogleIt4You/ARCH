@@ -1,12 +1,13 @@
-# Part 2: Pharse informatsion 
+# Part 2: Parse information 
 This script can be used with both SecureCRT or Python.
 
-If you are going to use python change folder variabel to use input insted of crt.Dialog.Prompt.
+If you are going to use python, change the folder variable to use input instead of crt.Dialog.Prompt.
+
 
 ![ParseInfo](/files/ParseInfo6.png "ParseInfo6")
 
 
-### Step 1: Open the Arch.py and change location of the scripts (pathToSubScript)
+### Step 1: Modify the Arch.py and change the pathToSubScript variable location of the Arch.py
 
 ![ParseInfo](/files/ParseInfo1.png "ParseInfo1")
 
@@ -21,9 +22,9 @@ If you are going to use python change folder variabel to use input insted of crt
 
 ![ParseInfo](/files/ParseInfo4.png "ParseInfo4")
 
-Now the folder shoud be populated with CSV fils.  
+Now the folder shoud be populated with csv fils.  
 
-If you are missing some csv fils the reason can be something woring with the txt file or bug in the parser  
+If you are missing some csv files, the reason can be incomplete data in the txt file or a bug in the parser. 
 
 ![ParseInfo](/files/ParseInfo5.png "ParseInfo5")
 

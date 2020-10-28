@@ -12,7 +12,7 @@ ARCH have three standalone parts.
 
 [Using Netmiko(Alternativ):](https://github.com/LetMeGoogleIt4You/ARCH/blob/master/Part1/Netmiko.md)    
 
-## Part 2: Pharse informasion and create a csv file  
+## Part 2: Parse informasion and create a csv files  
 [Using SecureCRT or Python:](https://github.com/LetMeGoogleIt4You/ARCH/blob/master/Part2/readme.md)  
 
 ## Part 3: Create one excel file from all CSV file   
@@ -24,7 +24,7 @@ ARCH have three standalone parts.
 ARCH is still under development, so bugs and changes can occur.     
 This tool mainly focues on ISR and ASR routers should work on most IOS-XE devices.  
 
-If you want to do some development, testing or your own one thing free to do so.  
+If you want to do some development, testing on your own feel free to do so.  
 also, there are some notebooks for easy troubleshooting in the [Dev folder](https://github.com/LetMeGoogleIt4You/ARCH/blob/master/Dev/readme.md)
 
 
