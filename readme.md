@@ -15,7 +15,7 @@ ARCH have three standalone parts.
 ## Part 2: Parse informasion and create a csv files  
 [Using SecureCRT or Python:](https://github.com/LetMeGoogleIt4You/ARCH/blob/master/Part2/readme.md)  
 
-## Part 3: Create one excel file from all CSV file   
+## Part 3: Create one excel file from all csv file   
 [Using Python (Not SecureCRT combability jet):](https://github.com/LetMeGoogleIt4You/ARCH/blob/master/Part3/readme.md)  
 
 
