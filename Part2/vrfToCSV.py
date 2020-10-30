@@ -77,7 +77,7 @@ def makeVrfDict(showVrf):
             #print("IPv4 Unicast")
             #print(showVrf[count+2])
 
-            if count + 4 > len(showVrf):
+            if count + 5 > len(showVrf):
                 break
             #print(showVrf[count+2])
             if "  Export VPN" in showVrf[count+1]:
