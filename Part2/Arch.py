@@ -3,7 +3,7 @@ import sys
 import os
 
 #import sub files
-pathToSubScript = "C:\\Users\\btl\\Documents\\git\\ARCH\\Part2\\"
+pathToSubScript = "C:\\Users\\MrRight\\Documents\\git\\ARCH\\Part2\\"
 sys.path.insert(0, pathToSubScript)
 
 import cdpToCSV
